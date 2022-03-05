@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1000px;
+    height: 100%;
+    border: #a1d136 5px solid;
+    border-radius: 10px;
+    background-color: #f4f4f4;
+  }
+  
+  .navbar {
+    background-color: #a1d136;
+  }
+  .contenedor {
+    width: 80%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  .titulo {
+    size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  
